@@ -11,4 +11,4 @@ for group in group_height:
     total_people += 1
 
 average_height = total_height / total_people
-print(f"The average height is {average_height:.1f}.")
+print(f"The average height is {average_height}")
