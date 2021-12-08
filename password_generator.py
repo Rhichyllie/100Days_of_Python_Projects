@@ -8,7 +8,7 @@ numbers = string.digits
 print("Welcome to the PyPassword Generator!")
 nb_letters = int(input("How many letters would you like in your password?\n"))
 nb_symbols = int(input("How many symbols would you like?\n"))
-nb_numbers = int(input("How manny number would you like?\n"))
+nb_numbers = int(input("How manny numbers would you like?\n"))
 
 password_list = []
 
